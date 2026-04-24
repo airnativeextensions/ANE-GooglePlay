@@ -1,3 +1,9 @@
+###### 2026.04.24 [v1.2.0]
+
+```
+feat(integrity): new extension to expose the Google Play Integrity API
+```
+
 ###### 2026.02.17 [v1.1.0]
 
 ```
